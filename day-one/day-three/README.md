@@ -1,8 +1,8 @@
 # CodeWars profile:
 
-**[Omar-Hacker ranks](https://www.codewars.com/users/omar-aq/completed_solutions)**
+**[Omar-Hacker ranks](https://www.hackerrank.com/omar_1997aq)**
 
-# Question 1 : Your order, please.
+# Question 1 : Time Conversion.
 
 ```sh
 Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
